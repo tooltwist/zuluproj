@@ -1,0 +1,5 @@
+<project>
+        <includeProject>tooltwist</includeProject>
+        <includeProject>ttStd</includeProject>
+        <includeProject>ttWbd</includeProject>
+</project>
